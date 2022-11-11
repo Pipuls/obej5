@@ -1,0 +1,9 @@
+.img-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-gallery img{
+    width: 600px;
+
+}
